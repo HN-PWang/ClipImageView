@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClipImageView">
+        <attr name="cvClipCenterWidth" format="dimension" />
+        <attr name="cvClipCenterHeight" format="dimension" />
+        <attr name="cvClipStrokeColor" format="integer" />
+    </declare-styleable>
+</resources>
